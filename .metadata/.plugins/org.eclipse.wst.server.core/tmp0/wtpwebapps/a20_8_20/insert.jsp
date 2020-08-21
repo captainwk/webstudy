@@ -9,7 +9,7 @@
 	String sql = "insert into member(memberid, password, name, email) values(?,?,?,?)";
 	Connection conn = null;
 	PreparedStatement pstmt = null;
-	ResultSet rs = null;
+	ResultSet rs;
 %>
 <%
 	String memberid=request.getParameter("memberid");

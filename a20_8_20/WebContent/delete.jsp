@@ -9,7 +9,7 @@
 	String sql = "delete from member where memberid = ? and password = ?";
 	Connection conn = null;
 	PreparedStatement pstmt = null;
-	ResultSet rs = null;
+	ResultSet rs;
 %>
 <%
 	String memberid=request.getParameter("memberid");
