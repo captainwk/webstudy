@@ -11,8 +11,12 @@ C:\GitHub\jwk\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3975099598.i
 \a20_08_19\src
 C:\GitHub\webstudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3989689851.index
 \a20_8_12\src
+C:\GitHub\webstudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3239996204.index
+\a20_8_24_Bean\src
 C:\GitHub\jwk\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\133840282.index
 \a20_8_18\src
+C:\GitHub\webstudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3792580952.index
+\BeanProject\src
 C:\GitHub\jwk\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3158058922.index
 \a20_8_20\src
 C:\GitHub\jwk\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1938269179.index
