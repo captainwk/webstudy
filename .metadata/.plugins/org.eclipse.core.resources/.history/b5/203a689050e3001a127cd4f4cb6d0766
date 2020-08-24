@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<%@ page import = "java.sql.*" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>find</title>
+</head>
+<body>
+<% 
+	String key = request.getParameter("key");
+	String word = request.getParameter("word");
+	
+	String driver="oracle.jdbc.OracleDriver";	
+	String url = "jdbc:oracle:thin:@127.0.0.1:1521:xe";
+	String user = "system";
+	String pwd="123456";
+	String sql = "insert into member(memberid, password, name, email) values(?,?,?,?)";
+	Connection conn = null;
+	PreparedStatement pstmt = null;
+	ResultSet rs;
+%>
+</body>
+</html>
